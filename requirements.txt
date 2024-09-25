@@ -1,0 +1,7 @@
+torch
+torchvision
+torchprofile
+numpy
+pandas
+matplotlib
+pyqt6
